@@ -57,7 +57,7 @@ const Index = () => {
             >
               <div className="card-body">
                 <p className="card-text">
-                  The price of one Cheetah will be 0.077 ETH + GAS Fees
+                  The price of one Cheetah will be 0.04 ETH + GAS Fees
                 </p>
               </div>
             </div>

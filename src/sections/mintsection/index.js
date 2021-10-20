@@ -65,7 +65,7 @@ const Index = ({
                   <img className="mr-2" src={Check} alt="cheak" />
                   Mint Cost :{" "}
                   <strong>
-                    {displayPrice ? displayPrice : "0.077 "} ETH + GAS
+                   0.04 ETH + GAS
                   </strong>
                 </li>
                 <li>
